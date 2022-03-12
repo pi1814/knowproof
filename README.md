@@ -1,3 +1,3 @@
 # knowproof
 
-It is a simple knowledge proof creation system using golang.
+It is a knowledge proof creation system using golang.
